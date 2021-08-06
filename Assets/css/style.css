@@ -1,1 +1,17 @@
-/*
+body {
+    font-family:sans-serif;
+  }
+
+.navbar-brand {
+    font-size: 50px;
+}
+
+.city-name {
+    font-size: Larger;
+    font-weight: bold;
+}
+
+.search-header {
+    font-size: Larger;
+    font-weight: bold;
+}
