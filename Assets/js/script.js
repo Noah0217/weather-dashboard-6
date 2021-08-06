@@ -1,6 +1,7 @@
 //API Key Used To Pull From OpenWeatherAPP
 var APIKey = "c9a9ed03a355403f4cb9a36e931c0b4a";
 
+//Calling all Variables
 function loadPage() {
    var nameEl = document.getElementById("city-name");
    var currentPicEl = document.getElementById("current-pic");
@@ -116,7 +117,9 @@ function loadPage() {
 loadPage();
 
 //References
-//
+//https://www.youtube.com/watch?v=GXrDEA3SIOQ
+//https://stackoverflow.com/questions/2010892/storing-objects-in-html5-localstorage
+//https://www.tutorialrepublic.com/faq/how-to-store-javascript-objects-in-html5-localstorage.php
 
 
 
