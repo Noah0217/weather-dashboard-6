@@ -2,7 +2,7 @@
 
 <h2>Description<br><h4>Weather dashboard designed for easy and quick access to any locations weather, just type in your desired location and results will appear with your current weather and the next 5 day forecast for that location. It also will display the weather conditions for that day.
   
-<h2>🌐Website-https://noah0217.github.io/work-day-scheduler-5</h2>
+<h2>🌐Deployed Application-https://noah0217.github.io/weather-dashboard-6/</h2>
   
   <h3 align="left">💻Languages and Tools🛠️</h3>
 
@@ -19,6 +19,6 @@
 - <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" alt="javascript" width="40" height="40"/> </a> </p>
   
 <h2>Preview<h2>
-  <img src="https://raw.githubusercontent.com/Noah0217/weather-dashboard-6/main/Assets/images/weather-dashboard.png" width="1150" height="525"/>
+  <img src="https://raw.githubusercontent.com/Noah0217/weather-dashboard-6/main/Assets/images/new-weather-dashboard-image.png" width="1175" height="625"/>
 
   <h4 align="center">Made With ❤️ by Noah Mejia
