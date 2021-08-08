@@ -1,5 +1,5 @@
 //API Key Used To Pull From OpenWeatherAPP
-var APIKey = "c9a9ed03a355403f4cb9a36e931c0b4a";
+var APIKey = "3ac0d8db34de82819d13a9167239acc1";
 
 //Calling all Variables
 function loadPage() {
