@@ -81,6 +81,8 @@ function loadPage() {
        });  
    }
 
+
+   //click functions
    searchEl.addEventListener("click",function() {
       var searchTerm = inputEl.value;
        getWeather(searchTerm);
@@ -115,34 +117,3 @@ function loadPage() {
    }
 }
 loadPage();
-
-//References
-//https://www.youtube.com/watch?v=GXrDEA3SIOQ
-//https://stackoverflow.com/questions/2010892/storing-objects-in-html5-localstorage
-//https://www.tutorialrepublic.com/faq/how-to-store-javascript-objects-in-html5-localstorage.php
-
-
-
-
-
-
-
-
-// function renderSearchHistory() {
-//    historyEl.innerHTML = "";
-//    for (let i=0; i<searchHistory.length; i++) {
-//        var historyItem = document.createElement("input");
-//        historyItem.setAttribute("type","text");
-//        historyItem.setAttribute("readonly",true);
-//        historyItem.setAttribute("class", "form-control d-block bg-white");
-//        historyItem.setAttribute("value", searchHistory[i]);
-//        historyItem.addEventListener("click",function() {
-//            getWeather(historyItem.value);
-//        })
-//        historyEl.append(historyItem);
-//    }
-// }
-
-// for (i=0; i<forecastEls.length; i++) {
-//    forecastEls[i].innerHTML = "";
-//    var forecastIndex = i*8 + 4;
