@@ -1,4 +1,4 @@
-# 06 Server-Side APIs: Weather Dashboard
+# Server-Side APIs: Weather Dashboard
 
 <h2>Description<br><h4>Weather dashboard designed for easy and quick access to any locations weather, just type in your desired location and results will appear with your current weather and the next 5 day forecast for that location. It also will display the weather conditions for that day.
   
