@@ -24,6 +24,6 @@
 - Open Weather API - https://openweathermap.org/api
 
 <h2>Preview<h2>
-  <img src="https://raw.githubusercontent.com/Noah0217/weather-dashboard-6/main/Assets/images/new-weather-dashboard-image.png" width="1175" height="600"/>
+  <img src="https://raw.githubusercontent.com/Noah0217/weather-dashboard-6/main/Assets/images/new-weather-dashboard-image.png" width="1175" height="575"/>
 
   <h4 align="center">Made With ❤️ by Noah Mejia
