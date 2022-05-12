@@ -21,7 +21,7 @@
 - <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" alt="javascript" width="40" height="40"/> </a> </p>
 
   <h2 align="left">API Used</h2>
-- Open Weather API - https://openweathermap.org/api
+- Open Weather API  https://openweathermap.org/api
 
 <h2>Preview<h2>
   <img src="https://raw.githubusercontent.com/Noah0217/weather-dashboard-6/main/Assets/images/new-weather-dashboard-image.png" width="1175" height="525"/>
