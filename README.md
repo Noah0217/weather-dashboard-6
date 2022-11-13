@@ -4,7 +4,7 @@
 
 <h2>Description<br><h4>Weather dashboard designed for quick and easy access to any locations weather, just type in your desired location and results will appear with your current weather and the next 5 day forecast for that location. It also will display the weather conditions for that time and day.
   
-<h2>🌐Deployed Application-https://noah0217.github.io/weather-dashboard-6/</h2>
+<h2>🌐Deployed Application - https://noah0217.github.io/weather-dashboard-6/</h2>
   
   <h3 align="left">💻Languages and Tools🛠️</h3>
 
